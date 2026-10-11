@@ -98,3 +98,5 @@ This entire ecosystem (both the asynchronous Windows audio integration and the W
 
 ## 📄 License
 MIT License. Feel free to modify, style, fork, and use it to elevate your streams!
+
+🛠️ Need Help? If you encounter any bugs or need support, please open an issue here: [ISSUES REPORT](https://github.com/gligavac810/obs-replay-hud/issues)
