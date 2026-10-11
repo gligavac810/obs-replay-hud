@@ -99,4 +99,9 @@ This entire ecosystem (both the asynchronous Windows audio integration and the W
 ## 📄 License
 MIT License. Feel free to modify, style, fork, and use it to elevate your streams!
 
+---
+
+### 🛡️ Security Verification
+*   **VirusTotal Report:** [Clean Scan Link](https://www.virustotal.com/gui/file/9b49d5f7e8b8c857d117a8343257327c7483dd22ada9955416e81eca31dcafbb/detection)
+
 🛠️ Need Help? If you encounter any bugs or need support, please open an issue here: [ISSUES REPORT](https://github.com/gligavac810/obs-replay-hud/issues)
